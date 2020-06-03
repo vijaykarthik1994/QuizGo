@@ -1,2 +1,0 @@
-# QuizGo
-QuizGo
